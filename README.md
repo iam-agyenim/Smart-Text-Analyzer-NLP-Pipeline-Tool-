@@ -66,7 +66,7 @@ nltk.download("punkt")
 
 ---
 
-## ▶ Usage
+##  Usage
 
 Run the program:
 
@@ -130,7 +130,7 @@ pip install nltk
 
 ##  Author
 
-Built by a Computer Science student exploring NLP and AI systems.
+Built by Richmond Agyenim-Boateng
 
 ---
 
